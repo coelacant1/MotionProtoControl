@@ -1,7 +1,12 @@
 {
 	"folders": [
 		{
+			"path": ".."
+		},
+		{
+			"name": "MotionProtoControl",
 			"path": "."
 		}
-	]
+	],
+	"settings": {}
 }
